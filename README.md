@@ -24,3 +24,4 @@
 
 
 Код написан в образовательных целях на курсах для веб-разработчиков [dvmn.org](https://dvmn.org).
+checkout reorder revert changes
